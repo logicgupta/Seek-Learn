@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137026851481",
+    "firebase_url": "https://basic-video-chat-68391.firebaseio.com",
+    "project_id": "basic-video-chat-68391",
+    "storage_bucket": "basic-video-chat-68391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137026851481:android:8aa51a8a06c113a4cc5e08",
+        "android_client_info": {
+          "package_name": "com.logic.android.onetoone.basic_video_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137026851481-m5i15et5670gve56cjd4pq65ufm5j76u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logic.android.onetoone.basic_video_chat",
+            "certificate_hash": "394e289ba42cd9d30726cc9a2079f6d46a2f43ef"
+          }
+        },
+        {
+          "client_id": "137026851481-kqm323hrt73dl3gr6b5kste40id2kc4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrIwwh0dJsdWvyy0XXM41ZFNP-LNLvvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137026851481-kqm323hrt73dl3gr6b5kste40id2kc4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
